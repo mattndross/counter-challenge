@@ -1,0 +1,60 @@
+Part I
+1-done
+2-done
+3-done
+4-done
+5-done
+6-done
+7-done
+8-done
+
+Part II
+1-man is short for manual, 
+  this command displays a specification of the use of the command that we want to know about
+  and the flags that can be use with it. 
+  As a windows user I have to use the --help command in the bash terminal
+
+2-the -l flag is displays a long listing format wich means that shows more information about the files and folders.
+  The -a flag displays ALL the files and folders even the hidden ones that start with .
+
+3-file:///C:/Users/USER/Desktop/Migracode/google.html
+
+4-done. It displays a lot of code.
+
+5-I could find HPLOGO disabling regex with ^R	
+
+6-You can jump between words in the terminal with ctrl + left/right arrows
+
+7-You can go to the end of the line pressing the end key
+
+
+
+Videos
+
+1-https://www.youtube.com/watch?v=vhZLTp6N4XA&feature=youtu.be
+  tab for autocomplete
+
+2-https://www.youtube.com/watch?v=KSh9-6FIu1w
+  gedit doesn't work in windows
+
+8-You can go to the beggining of the line by pressing the home key
+
+9-You can delete a word by using alt + backspace
+
+10-As I can understand the shell is the program/ app that runs the commands, inputs and outputs.
+   The terminal is the program that interfaces with the shell.
+
+11-The absolute path is the complete direction of a file or folder detailed from the root element.
+
+12-A relative path is a portion of the absolute path, it's location is based in it's relation to the directory where it is linking.
+
+13-A flag is an option for a command.
+  For example we have the -r to recursive apply a command in a folder
+  -v to show what the command is doing
+  -a to show all, even hidden files or folders
+
+14-							the -r flag is used to recursive remove a folder
+   the -f flag is to force when there is a non existing file and arguments. 
+      It was usefull when I wanted to delete a direct acces.
+
+
