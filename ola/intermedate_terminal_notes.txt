@@ -1,2 +1,0 @@
-1-los hard links sirven para crear un backup por ejemplo
-2-
